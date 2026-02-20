@@ -27,10 +27,8 @@ This application implements a basic student management system using Object-Orien
 
 ## Project Structure
 
-```text
-src/
-├── MainP.java
-└── Student.java
+- MainP.java – Main application & menu logic
+- Student.java – Student entity model
 
 ## How to Run
 
@@ -48,4 +46,5 @@ src/
 ---
 
 Developed by Panagiotis Zois
+
 
