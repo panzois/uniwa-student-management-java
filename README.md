@@ -26,9 +26,11 @@ This application implements a basic student management system using Object-Orien
 - Basic validation for numeric input
 
 ## Project Structure
+
+```text
 src/
 ├── MainP.java
-├── Student.java
+└── Student.java
 
 ## How to Run
 
@@ -46,3 +48,4 @@ src/
 ---
 
 Developed by Panagiotis Zois
+
